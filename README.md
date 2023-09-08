@@ -4,6 +4,11 @@
   <img width="500" alt="logo" src="Docs/1.png"/>
 </p>
 
+![](https://img.shields.io/badge/Captone-Design-blue)
+![](https://img.shields.io/badge/python-v3.1.1+-success.svg)
+![](https://img.shields.io/badge/Computer-Engineering-success.svg)
+![](https://img.shields.io/badge/Face-Recognition-success.svg)
+
 Sistem Deteksi Wajah dan Suhu untuk Presensi dan Pengecekan Suhu Tubuh Berbasis IoT adalah sebuah alat yang menggabungkan teknologi _Internet of Things_ (IoT) dengan deteksi wajah dan pengukuran suhu tubuh. Alat ini menggunakan _hardware_ seperti _webcam_ untuk mendeteksi wajah dan sensor suhu AMG8833 untuk mengukur suhu tubuh. Raspberry Pi 4 Model B berperan sebagai mikrokontroller utama yang menjalankan sistem, dengan sistem operasi Raspbian sebagai platformnya.
 
 Dalam melakukan deteksi wajah, alat ini memanfaatkan algoritma _Local Binary Pattern Histogram_ dan _Haar Cascade Classifier_, serta didukung oleh antarmuka grafis (GUI) yang intuitif. Pengguna dapat mengeluarkan perintah deteksi wajah dan mengambil sampel wajah dengan mudah melalui GUI ini.
