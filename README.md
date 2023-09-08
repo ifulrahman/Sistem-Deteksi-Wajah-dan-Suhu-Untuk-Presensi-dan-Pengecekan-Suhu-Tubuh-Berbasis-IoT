@@ -179,3 +179,7 @@ waktu keluar, jam masuk, serta dapat mengatur id chat telegram yang akan digunak
 
 Jika berhasil melakukan presensi, Bot Telegram akan mengirimkan notifikasi dengan 
 mengirimkan data berupa nama dan waktu seperti pada Gambar 12.
+
+## More Information
+#### Dokumentasi : https://drive.google.com/drive/folders/1Yhe3mZABtvIhFL2qMV13tX5cW1aH2uLo?usp=sharing
+#### Video Demo : https://drive.google.com/file/d/1wwn57zQfufg_UVgRryQOE0lj2PYIVw0r/view?usp=sharing
