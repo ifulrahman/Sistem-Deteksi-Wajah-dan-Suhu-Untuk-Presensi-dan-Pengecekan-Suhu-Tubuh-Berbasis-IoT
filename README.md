@@ -33,8 +33,11 @@ Sistem Deteksi Wajah dan Suhu ini menggabungkan teknologi canggih untuk memberik
   <img width="500" alt="logo" src="Docs/2.png"/>
 </p>
 
-Pada Gambar tersebut, merupakan gambaran umum yang diperoleh meliputi blok diagram. Terdiri dari beberapa komponen yang digunakan pada alat yang akan dirancang, sehingga komponen satu dengan lainnya terhubung, menjadikan sebuah _prototype_. Sistem yang akan dibuat memiliki beberapa komponen yang harus disediakan diantaranya sensor 
-AMG8833 dan _webcam_ sebagai _input_. Raspberry Pi 4 Model B sebagai mikrokontroler yang 
+<p align="center">
+    <b>Gambar 1</b> Flowchart Sistem
+</p>
+
+Pada Gambar 2, merupakan gambaran umum yang diperoleh meliputi blok diagram. Terdiri dari beberapa komponen yang digunakan pada alat yang akan dirancang, sehingga komponen satu dengan lainnya terhubung, menjadikan sebuah _prototype_. Sistem yang akan dibuat memiliki beberapa komponen yang harus disediakan diantaranya sensor AMG8833 dan _webcam_ sebagai _input_. Raspberry Pi 4 Model B sebagai mikrokontroler yang 
 terhubung pada monitor sebagai tempat melakukan pemrograman data, terhubung pada catu 
 daya. _Speaker_ dan tampilan data pada monitor dijadikan _output_ hasil data. 
 _Speaker_ memberikan suara peringatan ketika suhu tidak normal. Bot telegram dan juga 
@@ -46,3 +49,11 @@ Sistem pendeteksian wajah ini diprogram menggunakan Bahasa Python, dibantu denga
 beberapa _library_ diantaranya OpenCV, NumPy, Tkinter, dll. Program ini juga mengaplikasikan 
 beberapa algoritma diantaranya _Haar Cascade Algorithm_ dan _Local Binary Pattern Histogram_
 (LBPH) Algorithm.
+
+<p align="center">
+  <img width="500" alt="logo" src="Docs/3.png"/>
+</p>
+
+<p align="center">
+    <b>Gambar 2</b> Desain Perangkat Keras
+</p>
