@@ -4,6 +4,14 @@
   <img width="500" alt="logo" src="Docs/1.png"/>
 </p>
 
+<p align="center">
+  <img width="500" alt="logo" src="Docs/5.png"/>
+</p>
+
+<p align="center">
+  <img width="500" alt="logo" src="Docs/6.png"/>
+</p>
+
 ![](https://img.shields.io/badge/Captone-Design-blue)
 ![](https://img.shields.io/badge/python-v3.1.1+-success.svg)
 ![](https://img.shields.io/badge/Computer-Engineering-success.svg)
