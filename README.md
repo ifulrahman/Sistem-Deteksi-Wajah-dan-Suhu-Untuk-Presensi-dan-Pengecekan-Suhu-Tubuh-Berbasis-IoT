@@ -67,3 +67,17 @@ beberapa algoritma diantaranya _Haar Cascade Algorithm_ dan _Local Binary Patter
 <p align="center">
     <b>Gambar 2</b> Desain Perangkat Keras
 </p>
+
+<p align="center">
+  <img width="500" alt="logo" src="Docs/4.png"/>
+</p>
+
+<p align="center">
+    <b>Gambar 3</b> Flowchart Presensi
+</p>
+
+## Website dan Bot Telegram
+
+Untuk halaman website dapat diakses melalui alamat berikut : http://presensiku.xyz/cd
+
+
