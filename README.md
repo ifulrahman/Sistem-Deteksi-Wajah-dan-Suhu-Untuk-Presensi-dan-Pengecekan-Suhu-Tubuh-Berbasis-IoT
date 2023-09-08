@@ -26,3 +26,9 @@ Alat ini juga memanfaatkan berbagai teknologi dan perangkat lunak, termasuk Pyth
 Penyimpanan data menggunakan _database_ PHPMyAdmin MySQL yang di-_hosting_ pada _server online_ yang disediakan oleh layanan _hosting_ yang digunakan. Pembuatan _Website_ menggunakan bahasa pemrograman PHP dengan dukungan dari _framework_ Laravel dan Bootstrap untuk memastikan antarmuka web yang responsif dan ramah pengguna.
 
 Sistem Deteksi Wajah dan Suhu ini menggabungkan teknologi canggih untuk memberikan solusi presensi yang efisien, aman, dan proaktif dalam menjaga kesehatan pengguna.
+
+## Flowchart Sistem
+
+<p align="center">
+  <img width="500" alt="logo" src="Docs/2.png"/>
+</p>
