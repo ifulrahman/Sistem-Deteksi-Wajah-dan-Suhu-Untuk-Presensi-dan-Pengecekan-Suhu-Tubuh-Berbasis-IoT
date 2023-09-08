@@ -78,7 +78,7 @@ beberapa algoritma diantaranya _Haar Cascade Algorithm_ dan _Local Binary Patter
 
 ## Website dan Bot Telegram
 
-Untuk halaman website dapat diakses melalui alamat berikut : http://presensiku.xyz/cd
+Untuk halaman _website_ dapat diakses melalui alamat berikut : http://presensiku.xyz/cd
 
 <p align="center">
   <img width="500" alt="logo" src="Docs/7.png"/>
@@ -89,7 +89,7 @@ Untuk halaman website dapat diakses melalui alamat berikut : http://presensiku.x
 </p>
 
 Pada Gambar 4 merupakan menu login, pengguna diharuskan untuk memasukkan 
-username dan password yang sudah didaftarkan sebelumnya.
+_username_ dan _password_ yang sudah didaftarkan sebelumnya.
 
 <p align="center">
   <img width="500" alt="logo" src="Docs/8.png"/>
