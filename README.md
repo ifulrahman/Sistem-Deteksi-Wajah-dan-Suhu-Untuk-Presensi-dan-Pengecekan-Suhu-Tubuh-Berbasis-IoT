@@ -45,7 +45,7 @@ Sistem Deteksi Wajah dan Suhu ini menggabungkan teknologi canggih untuk memberik
     <b>Gambar 1</b> Flowchart Sistem
 </p>
 
-Pada Gambar 2, merupakan gambaran umum yang diperoleh meliputi blok diagram. Terdiri dari beberapa komponen yang digunakan pada alat yang akan dirancang, sehingga komponen satu dengan lainnya terhubung, menjadikan sebuah _prototype_. Sistem yang akan dibuat memiliki beberapa komponen yang harus disediakan diantaranya sensor AMG8833 dan _webcam_ sebagai _input_. Raspberry Pi 4 Model B sebagai mikrokontroler yang 
+Pada Gambar 1, merupakan gambaran umum yang diperoleh meliputi blok diagram. Terdiri dari beberapa komponen yang digunakan pada alat yang akan dirancang, sehingga komponen satu dengan lainnya terhubung, menjadikan sebuah _prototype_. Sistem yang akan dibuat memiliki beberapa komponen yang harus disediakan diantaranya sensor AMG8833 dan _webcam_ sebagai _input_. Raspberry Pi 4 Model B sebagai mikrokontroler yang 
 terhubung pada monitor sebagai tempat melakukan pemrograman data, terhubung pada catu 
 daya. _Speaker_ dan tampilan data pada monitor dijadikan _output_ hasil data.
 
@@ -80,4 +80,102 @@ beberapa algoritma diantaranya _Haar Cascade Algorithm_ dan _Local Binary Patter
 
 Untuk halaman website dapat diakses melalui alamat berikut : http://presensiku.xyz/cd
 
+<p align="center">
+  <img width="500" alt="logo" src="Docs/7.png"/>
+</p>
 
+<p align="center">
+    <b>Gambar 4</b> Tampilan Menu Login
+</p>
+
+Pada Gambar 4 merupakan menu login, pengguna diharuskan untuk memasukkan 
+username dan password yang sudah didaftarkan sebelumnya.
+
+<p align="center">
+  <img width="500" alt="logo" src="Docs/8.png"/>
+</p>
+
+<p align="center">
+    <b>Gambar 5</b> Tampilan Menu Beranda
+</p>
+
+Pada Gambar 5 merupakan tampilan menu beranda, pengguna dapat melihat berapa banyak 
+face id yang terdaftar, jumlah orang yang masuk dan keluar pada hari tertentu.
+
+<p align="center">
+  <img width="500" alt="logo" src="Docs/9.png"/>
+</p>
+
+<p align="center">
+    <b>Gambar 6</b> Tampilan Menu Daftar Users
+</p>
+
+Pada Gambar 6 merupakan menu daftar users, pengguna dapat menambahkan users serta 
+dapat mengubah _username_ dan _password_ untuk keperluan _login_ ke dalam _dashboard_.
+
+<p align="center">
+  <img width="500" alt="logo" src="Docs/10.png"/>
+</p>
+
+<p align="center">
+    <b>Gambar 7</b> Tampilan Menu Data Alat
+</p>
+
+Pada Gambar 7 merupakan tampilan menu data alat, pengguna dapat melihat _device_ yang 
+digunakan dalam proses presensi. Dalam hal ini, kita menggunakan _device_ Raspberry Pi 4 
+modul B.
+
+<p align="center">
+  <img width="500" alt="logo" src="Docs/11.png"/>
+</p>
+
+<p align="center">
+    <b>Gambar 8</b> Tampilan Menu Data Face ID
+</p>
+
+Pada Gambar 8 merupakan tampilan menu data face id, pengguna dapat melihat face id 
+yang sudah terdaftar beserta data-data seperti nama, NIM, nomor telepon, gender, semester, 
+dan kelas. Pengguna dapat mengedit data-data tersebut pada menu ini, sedangkan untuk 
+menghapus data tersebut hanya admin yang mengatur _database_ yang dapat menghapus data-data tersebut.
+
+<p align="center">
+  <img width="500" alt="logo" src="Docs/12.png"/>
+</p>
+
+<p align="center">
+    <b>Gambar 9</b> Tampilan Menu Absensi
+</p>
+
+<p align="center">
+  <img width="500" alt="logo" src="Docs/14.png"/>
+</p>
+
+<p align="center">
+    <b>Gambar 10</b> Tampilan Menu Absensi
+</p>
+
+Pada Gambar 9 dan 10 merupakan tampilan menu absensi, pengguna dapat melihat keterangan 
+siapa saja yang sudah melakukan presensi beserta keterangan waktu dan juga suhu. Pada menu 
+ini lah terdapat salah satu fitur utama sistem yaitu pengguna dapat mengunduh hasil rekapan presensi berdasarkan tanggal yang sudah ditentukan.
+
+<p align="center">
+  <img width="500" alt="logo" src="Docs/13.png"/>
+</p>
+
+<p align="center">
+    <b>Gambar 11</b> Tampilan Menu Setting
+</p>
+
+Pada Gambar 11 merupakan tampilan menu setting, admin dapat mengatur waktu masuk, 
+waktu keluar, jam masuk, serta dapat mengatur id chat telegram yang akan digunakan.
+
+<p align="center">
+  <img width="500" alt="logo" src="Docs/15.png"/>
+</p>
+
+<p align="center">
+    <b>Gambar 12</b> Tampilan Bot Telegram
+</p>
+
+Jika berhasil melakukan presensi, Bot Telegram akan mengirimkan notifikasi dengan 
+mengirimkan data berupa nama dan waktu seperti pada Gambar 12.
