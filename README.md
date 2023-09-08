@@ -1,0 +1,2 @@
+# Sistem-Deteksi-Wajah-dan-Suhu-Untuk-Presensi-dan-Pengecekan-Suhu-Tubuh-Berbasis-IoT
+Repository ini berisi kode sumber untuk proyek dengan judul "Sistem Deteksi Wajah dan Suhu untuk Presensi dan Pengecekan Suhu Tubuh Berbasis IoT". Proyek ini menggunakan Raspberry Pi 4, webcam, sensor suhu AMG8833, dan berbagai teknologi lainnya untuk membuat sistem presensi otomatis berbasis Internet of Things (IoT).
